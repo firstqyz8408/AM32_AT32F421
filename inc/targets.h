@@ -18,7 +18,7 @@
 
 
 //#define AT32DEV_F421
-//#define TEKKO32_F421
+#define TEKKO32_F421
 //#define FOXEER_F421
 //#define AIKON_SINGLE_F421
 //#define AIKON_55A_F421
